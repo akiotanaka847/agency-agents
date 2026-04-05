@@ -9,14 +9,6 @@
 
 ---
 
-## 🚀 What Is This?
-
-Born from a Reddit thread and months of iteration, **The Agency** is a growing collection of meticulously crafted AI agent personalities. Each agent is:
-
-- **🎯 Specialized**: Deep expertise in their domain (not generic prompt templates)
-- **🧠 Personality-Driven**: Unique voice, communication style, and approach
-- **📋 Deliverable-Focused**: Real code, processes, and measurable outcomes
-- **✅ Production-Ready**: Battle-tested workflows and success metrics
 
 **Think of it as**: Assembling your dream team, except they're AI specialists who never sleep, never complain, and always deliver.
 
